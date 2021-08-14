@@ -1,0 +1,50 @@
+body{
+    background-color:#f9f9f9;
+}
+
+.div{
+    
+    background-color:lightslategrey;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+
+}
+
+#imagem{
+    
+    padding: 10px;
+    width: 139px;
+    height: 181px;
+
+}
+
+#nome{
+    
+    vertical-align:top;
+    display: inline-block;
+    margin: 30px 20px;
+    font-size: 30px;
+    font-family: Metal Mania;
+
+}
+
+#informacoes{
+
+    vertical-align: top;
+    margin: 100px;
+    display: inline-block;
+    font-size: 21px;
+    font-family: Metal Mania;
+}
+
+
+#video{
+
+    float:right;
+    padding: 10px;
+    width: 330px;
+    height: 180px;
+    cursor: pointer;
+}
